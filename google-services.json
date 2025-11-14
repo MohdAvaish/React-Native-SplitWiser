@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161810619556",
+    "project_id": "splitwiser-d5b38",
+    "storage_bucket": "splitwiser-d5b38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161810619556:android:e938349fec760770b35a31",
+        "android_client_info": {
+          "package_name": "com.avaish.splitwiser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrbyx4BKxS3Z-498jGbE_Wmlu5QstZmso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
