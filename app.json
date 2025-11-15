@@ -26,6 +26,11 @@
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
+    
+    "extra": {
+      "GEMINI_API_KEY": "${GEMINI_API_KEY}"
+    },
+
     "plugins": [
       "expo-router",
       [
